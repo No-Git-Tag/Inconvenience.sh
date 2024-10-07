@@ -12,7 +12,7 @@ Run at your own risk
 ```
 git clone https://github.com/No-Git-Tag/Inconvenience.sh/
 chmod +x inconvenience.sh
-bash inconvenience.sh
+sudo bash inconvenience.sh
 ```
 Running this script on any system with critical information will cause it to be filled with issues. 
 
